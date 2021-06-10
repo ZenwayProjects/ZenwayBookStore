@@ -1,3 +1,10 @@
+# BOOKSTORE SIMPLE CRUD IN LARAVEL 5.7 
+
+crud in laravel test.
+
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
